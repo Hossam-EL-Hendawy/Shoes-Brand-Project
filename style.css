@@ -1,0 +1,570 @@
+ 
+.the_main{
+    background-color: rgba(240, 64, 20, 0.959);
+    width: 1330px;
+    height: 500px;
+    border-radius: 30px;
+   
+     
+}
+
+.My_site{
+    display: inline-flex;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgba(240, 64, 20, 0.959);
+    font-weight: bolder;
+    position: absolute;
+    top: 50px;
+    left: 30px;
+    border: 3px solid white;
+    border-width: 20px;
+    border-radius: 30px;
+    background-color: white;
+    
+}
+
+.My_site:hover{
+    cursor: pointer;
+    background-color: black;
+    color: white;
+    border: 3px solid black;
+    border-width: 20px;
+    border-radius: 30px;
+   
+    
+}
+
+.My_Products{
+    display: inline-flex;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgba(240, 64, 20, 0.959);
+    font-weight: bolder;
+    position: absolute;
+    top: 50px;
+    left: 430px;
+    border: 3px solid white;
+    border-width: 20px;
+    border-radius: 30px;
+    background-color: white;
+   
+}
+
+.My_Products:hover{
+    cursor: pointer;
+    background-color: black;
+    color: white;
+    border: 3px solid black;
+    border-width: 20px;
+    border-radius: 30px;
+  
+    
+}
+
+
+.Hello_Message{
+    display: inline-flex;
+    font-size:80px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+     
+    color: white;
+    text-shadow: 1px 150px white;
+   
+}
+
+ 
+
+.img1{
+    display: inline-flex;
+    position: relative;
+    left: 455px;
+    bottom: 450px;
+    z-index: 1;
+    
+}
+
+ 
+
+.go{
+    position: relative;
+    padding: 20px;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgba(240, 64, 20, 0.959);
+    
+}
+
+.shoes{
+    background-color: black;
+    display: inline-flex;
+    position: relative;
+    top: 93px;
+    left: -10px;
+    padding: 26px;
+    
+     
+}
+
+.shoes:hover{
+    background-color: yellow;
+    cursor: pointer;
+    
+}
+
+.shoes1{
+    width: 480px;
+    height: 507px;
+    position: relative;
+    top: -10px;
+    display: inline-flex;
+    
+   
+}
+
+ .mail{
+    position: relative;
+    bottom: 510px;
+   direction: rtl;
+   z-index: 2;
+ }
+
+.description{
+    position: absolute;
+    width:770px;
+    left: 530px;
+    padding: 20px;
+    height: auto;
+    top: 750px;
+   
+   font-size: 18px;
+  background-color:rgba(240, 64, 20, 0.959);
+  color: rgb(235, 234, 234);
+    
+}
+
+.Vision{
+     display: inline-flex;
+     height: 30px;
+    
+        
+  
+  
+  
+   
+}
+
+.Vision_Title{
+    position: relative;
+    text-align: center;
+    font-size: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgba(240, 64, 20, 0.959);
+}
+
+
+
+.visionmessage1{
+    background-color: rgba(240, 64, 20, 0.959);
+    position: relative;
+    width: 300px;
+    height: auto;
+    left: 70px;
+    border-radius: 20px;
+    top: 220px;
+     
+   
+}
+
+.visionmessage1:hover{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    border-radius: 20px;
+    text-shadow: 1px 1px 50px white;
+    transition: 1s ease-in-out;
+}
+.message1{
+    padding: 20px;
+    color: rgb(235, 234, 234);
+     
+}
+
+.visionmessage2{
+    background-color: rgba(240, 64, 20, 0.959);
+    position: relative;
+    width: 300px;
+    height: auto;
+    left: 470px;
+    border-radius: 20px;
+    bottom: 145px;
+    
+     
+   
+}
+
+.visionmessage2:hover{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    border-radius: 20px;
+    text-shadow: 1px 1px 50px white;
+    transition: 1s ease-in-out;
+}
+.message2{
+    padding: 20px;
+    color: rgb(235, 234, 234);
+     
+}
+
+.visionmessage3{
+    background-color: rgba(240, 64, 20, 0.959);
+    position: relative;
+    width: 300px;
+    height: auto;
+    left: 870px;
+    border-radius: 20px;
+    bottom:510px;
+     
+   
+}
+
+.visionmessage3:hover{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    border-radius: 20px;
+    text-shadow: 1px 1px 50px white;
+    transition: 1s ease-in-out;
+}
+.message3{
+    padding: 20px;
+    color: rgb(235, 234, 234);
+     
+}
+
+
+
+.visionmessage4{
+    position: relative;
+    top: 330px;
+    
+}
+
+.allrights{
+    position: relative;
+}
+
+.nikelogo{
+    position: relative;
+    top: 730px;
+    left: 110px;
+    z-index: 1;
+    opacity: .4;
+}
+
+.addidaslogo{
+    position: relative;
+    top: 490px;
+    left: 510px;
+    z-index: 1;
+    opacity: .4;
+    display: inline-flex;
+}
+
+.pumalogo{
+    position: relative;
+    top: 500px;
+    left: 700px;
+    z-index: 1;
+    opacity: .4;
+    display: inline-flex;
+}
+
+.brands{
+    position: relative;
+    bottom: 650px;
+    left: 50px;
+}
+
+.contact{
+    position: relative;
+    top: 170px;
+}
+
+ 
+.circle1{
+    width: 70px;
+    height: 70px;
+    background-color: black;
+    border-radius: 70px;
+    position: relative;
+    bottom: 180px;
+    right: 215px;
+
+}
+
+.circle2{
+    width: 70px;
+    height: 70px;
+    background-color: black;
+    border-radius: 70px;
+    position: relative;
+    bottom: 180px;
+    left: 120px;
+
+}
+
+.circle3{
+    width: 70px;
+    height: 70px;
+    background-color: black;
+    border-radius: 70px;
+    position: relative;
+    bottom: 182px;
+    left: 450px;
+
+}
+
+#no1{
+    font-size: 60px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 15px;
+}
+
+#no2{
+    font-size: 60px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 15px;
+  
+}
+
+#no3{
+    font-size: 60px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 18px;
+}
+
+.subcircle1{
+    width: 62px;
+    height: 62px;
+    background-color: rgba(240, 64, 20, 0.959);
+    border-radius: 70px;
+    position: relative;
+    bottom: 176px;
+    right: 421px;
+     z-index: 1;
+    
+    
+}
+
+.subcircle2{
+    width: 63px;
+    height: 62px;
+    background-color: rgba(240, 64, 20, 0.959);
+    border-radius: 70px;
+    position: relative;
+    bottom: 176px;
+    right: 78px;
+     z-index: 1;
+    
+    
+}
+
+.subcircle3{
+    width: 62px;
+    height: 62px;
+    background-color: rgba(240, 64, 20, 0.959);
+    border-radius: 70px;
+    position: relative;
+    bottom: 178px;
+    left: 259px;
+     z-index: 1;
+    
+    
+}
+
+
+.circles{
+    display: inline-flex;
+}
+
+#text1{
+    border: none;
+    border-bottom: 2px solid rgba(240, 64, 20, 0.959);
+    width: 300px;
+    position: relative;
+    bottom: 3px;
+     font-family: Arial, Helvetica, sans-serif;
+}
+
+ #text1:focus{
+    outline: none;
+    font-size: 20px;
+    transition: .7s ease-in-out;
+ }
+
+ 
+
+ #text1:checked{
+    border: none;
+ }
+
+ .contactus{
+    font-size: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgba(240, 64, 20, 0.959);
+    text-align: center;
+ }
+
+ .the_form{
+    position: absolute;
+    left: 530px;
+    
+ }
+
+ .l1{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgba(240, 64, 20, 0.959);
+ }
+
+ .l2{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgba(240, 64, 20, 0.959);
+ }
+
+ .l2{
+    position: absolute;
+    top: 50px;
+    right: 625px;
+ }
+
+#email1{
+    position: absolute;
+    top: 45px;
+    right: 310px;
+ }
+
+ #email1{
+    border: none;
+    border-bottom: 2px solid rgba(240, 64, 20, 0.959);
+    width: 300px;
+    position: relative;
+    bottom: 3px;
+     font-family: Arial, Helvetica, sans-serif;
+}
+ #email1:focus{
+    outline: none;
+    font-size: 20px;
+    transition: .7s ease-in-out;
+ }
+
+ .ok{
+    background-color: rgba(240, 64, 20, 0.959);
+    font-size: 30px;
+    color: white;
+    border-color:  rgba(240, 64, 20, 0.959);
+    border-radius: 30px;
+    border-bottom: none;
+    border-right: none;
+    position: absolute;
+    top: 110px;
+    right: 520px;
+     
+ }
+
+ .ok:focus{
+    outline: none;
+ }
+
+ .ok:hover{
+    background-color: black;
+    color:white;
+   border-top:none;
+   border-left: none;
+   cursor: pointer;
+ }
+
+ .subform{
+    position: relative;
+    right: 80px;
+ }
+
+ .rights{
+    position: relative;
+    top: 380px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgba(240, 64, 20, 0.959);
+    text-align: center;
+    font-weight: bold;
+ }
+
+
+ .design1{
+    background-color: black;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    border-radius: 100px;
+    z-index: 2;
+   
+ }
+
+ .design1:hover{
+    z-index: -1; 
+    cursor: pointer;
+ }
+
+ .design2{
+    background-color: rgba(240, 64, 20, 0.959);
+    width: 200px;
+    height: 200px;
+    position: relative;
+    border-radius: 100px;
+
+    bottom: 90px;
+ }
+
+ .Designs{
+    position: absolute;
+    left: 170px;
+ }
+ 
+
+ .Designs1{
+    position: absolute;
+    left: 950px;
+ }
+
+ .design3{
+    background-color: black;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    border-radius: 100px;
+    z-index: 1;
+  
+ }
+ 
+ .design3:hover{
+    z-index: -1; 
+    cursor: pointer;
+ }
+
+ .design4{
+    background-color: rgba(240, 64, 20, 0.959);
+    width: 200px;
+    height: 200px;
+    position: relative;
+    border-radius: 100px;
+ 
+    bottom: 90px;
+ }
+ 
